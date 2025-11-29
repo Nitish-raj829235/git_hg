@@ -1,0 +1,14 @@
+1.git --version
+2.git config --global user.name "ABC"
+3.git config --global user.email "r.12@gmail.com"
+4.git config --global --edit
+5. esc + :wq
+6. mkdir gitslearn
+7.cd
+8.git int // to create empty repository
+9. is -a
+10.git status
+11. git add xy.py
+12. git commit -m "initial commit"
+
+
